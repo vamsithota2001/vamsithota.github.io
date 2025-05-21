@@ -27,11 +27,19 @@ Developed a comprehensive HR Analytics Dashboard in Power BI to provide data-dri
 Key Features & Functionalities:
 Employee Demographics & Diversity Analysis: Visualized workforce distribution based on age, gender, department, and experience levels to support HR in building a diverse and inclusive workplace.
 Attrition & Retention Insights: Identified trends in employee turnover, analyzed reasons for attrition, and provided predictive insights to improve retention strategies.
+
 Performance & Productivity Metrics: Tracked employee performance based on KPIs, enabling HR teams to identify top performers and areas for improvement.
+
 Recruitment & Hiring Trends: Monitored hiring rates, department-wise recruitment efficiency, and new hire success rates to optimize hiring processes.
+
 ETL & Data Processing: Implemented data extraction, transformation, and loading (ETL) pipelines to clean and preprocess HR data for accurate reporting.
+
 Advanced DAX Measures & Calculations: Used DAX functions to create custom metrics for turnover rates, average tenure, and employee satisfaction scores.
+
 Interactive & Dynamic Visualizations: Designed filter-enabled reports, allowing users to drill down into specific departments, roles, and time frames.
+
 Automation & Real-time Updates: Integrated with HR databases and Excel sheets to enable automated data refreshes and real-time workforce monitoring.
+
 This dashboard serves as a decision-support tool for HR teams, helping them identify workforce trends, streamline recruitment, and enhance employee engagement strategies. It empowers leadership with data-driven insights to optimize talent management, workforce planning, and overall HR efficiency.
+
 ![Data analysis using PowerBI - HR](HR-Dashboard1.jpg) ![Data analysis using PowerBI - HR](HR-Dashboard2.jpg)
