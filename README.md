@@ -19,4 +19,4 @@ Interactive Dashboard: I developed an interactive dashboard using Quarto and Shi
 
 This project showcases my expertise in data wrangling, visualization, and building interactive tools that facilitate data-driven decision-making. It demonstrates the use of R programming and Quarto for creating insightful, real-world applications that make weather data accessible for both technical and non-technical users.
 
-![Data analysis using R - Weather Data](Picture1.jpg)
+![Data analysis using R - Weather Data](Picture1.jpg) ![Data analysis using R - Weather Data](Picture2.jpg) ![Data analysis using R - Weather Data](Picture3.jpg)
