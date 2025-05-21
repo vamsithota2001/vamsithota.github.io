@@ -85,3 +85,48 @@ Detailed Set View:
 Crafted a dedicated report section that provides detailed information on product attributes (name, image, price, year, pieces, age), utilizing placeholder values when multiple sets are selected.
 
 ![Data analysis using PowerBI - HR](lego.jpg)
+
+# Project - 5 : Distributed Deep Learning on Azure – Scaling Neural Network Training for Text Classification
+
+In this project, I developed and refined deep learning models—leveraging CNNs, LSTMs, and Bi-RNNs—for advanced text classification tasks. The focus was on enhancing both predictive accuracy and computational efficiency through dynamic resource allocation and edge computing strategies.
+
+Key Contributions:
+
+Automated Azure ML Pipelines:
+Designed and implemented Azure Machine Learning pipelines to streamline data preprocessing, model training, and hyperparameter tuning, ensuring reproducibility and scalability.
+
+Cloud-Based Model Development:
+Utilized C# and Python within Visual Studio and the Azure ecosystem to develop and deploy deep learning models, optimizing resource management in a cloud environment.
+
+Sentiment Analysis with NLP:
+Processed a dataset of 50K IMDB movie reviews using NLP techniques for sentiment classification, achieving a significant boost in accuracy and efficiency.
+
+Optimized Model Inference:
+Integrated Azure GPU-accelerated virtual machines and edge computing solutions to reduce latency and enhance real-time performance during model inference.
+
+Serverless Deployment:
+Deployed the optimized models using Azure Functions and Azure Kubernetes Service (AKS) to achieve serverless scalability and efficient resource utilization.
+
+This project highlights my ability to harness cloud scalability and advanced neural network architectures to deliver robust and efficient deep learning solutions.
+
+# Project - 6 : ML Algorithms for Disease Prediction | Web-Based Application
+
+Developed a web-based disease prediction system using four machine learning (ML) algorithms—Naïve Bayes, Random Forest, Decision Tree, and Support Vector Machine (SVM)—to predict diseases based on user-selected symptoms. This project aimed to assist patients and healthcare professionals by providing early-stage disease predictions through an interactive web application.
+
+Project Overview:
+Designed and developed the web application from scratch, enabling users to input symptoms and receive a predicted disease output.
+Implemented four ML models to analyze user-inputted symptom data and generate predictions.
+Conducted comparative performance analysis of all models using key evaluation metrics:
+Accuracy – Overall correctness of predictions.
+Precision – How many predicted positive cases were actually positive.
+Recall – Ability of the model to detect all actual positive cases.
+F1 Score – Balance between precision and recall.
+Identified the best-performing algorithm by comparing the metrics and optimizing hyperparameters for improved accuracy.
+Built the backend logic in Python, integrating ML models with the web application for real-time predictions.
+
+	**bold text**Technical Stack & Implementation:
+Programming Language: Python (Flask for backend, HTML/CSS for frontend)
+Machine Learning Algorithms: Naïve Bayes, Random Forest, Decision Tree, SVM
+Libraries Used: Pandas, NumPy, Scikit-learn, Flask
+Model Training & Testing: Trained models on a dataset containing disease-symptom relationships, then tested performance using a separate validation set.
+User Interface: Developed an intuitive web interface where users could select symptoms from a predefined list and receive instant predictions.
