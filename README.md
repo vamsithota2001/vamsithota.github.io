@@ -7,4 +7,4 @@ dashboard created in Quarto with Shiny, we explore key weather variables includi
 wind speed, and precipitation. The analysis reveals seasonal patterns, extremes, and yearly trends 
 in weather, which are visualized using time series plots, Bar/Box plots, and interactive UI. This 
 exercise demonstrates critical data analysis skills such as API data acquisition, wrangling, 
-visualization, and communication of insights. 
+visualization, and communication of insights. **
