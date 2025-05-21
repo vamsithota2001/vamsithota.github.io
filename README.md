@@ -1,5 +1,5 @@
 # vamsithota.github.io
-# Vamsi Thota's Portfolio | vamsikrishnasait@gmail.com | 937 4769 341
+# Vamsi Thota's Portfolio | vamsikrishnasait@gmail.com
 # Project - 1 : Indianapolis Weather Analysis (2020 - 2025)
 ### Skills: R (Programming Language) · Quarto · Data Analysis · Statistical Data Analysis · Application Programming Interfaces (API) · Documentation
 This project involved analyzing weather trends in Indianapolis from February 2020 to February 2025 using data from the Open-Meteo API. I leveraged R for data acquisition, cleaning, transformation, and visualization, providing valuable insights into temperature, wind speed, and precipitation patterns.
